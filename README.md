@@ -1,0 +1,3 @@
+Post Shopify an effort from single person for small manafacturers to bring their buisness online.It was an brand personal e-commerce portal where their own products only listed. It might very usefull for a cottage or small manafacturers especially if they need a personal white washed brand portal for online presence. This project goal was cover end to end for manafacturers from product cataloging to online purchase for customers to purcahse and after sale support.
+
+The project reamins open and free to use forever. 
